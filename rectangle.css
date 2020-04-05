@@ -1,4 +1,4 @@
-div{
+.main{
   width:380px;
   margin:50px auto;
   font-size:1.1em
@@ -15,4 +15,14 @@ input,label{
 }
 span{
   color:red;
+}
+#width-validation-message{
+  color:red;
+  margin-left:62px;
+  font-size:0.8em;
+}
+#height-validation-message{
+    color:red;
+    margin-left:62px;
+    font-size:0.8em;
 }
